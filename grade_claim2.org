@@ -3,7 +3,6 @@
 #+author: Logan Hunt 
 #+date: 13 November 2020
 #+language: en
-#+options: H:4 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t LaTeX:t d:(not "HINT")
 #+STARTUP: content hideblocks
 #+setupfile: ~/.spacemacs.d/theme-bigblow.setup
 
