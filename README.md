@@ -1,4 +1,3 @@
-# Grade-Claim-2
-Second Grade Claim for CSE280 
+# Grade Claim 2
 
-Use org mode to view the claim
+The sequel to the critically acclaimed Grade Claim 1.
